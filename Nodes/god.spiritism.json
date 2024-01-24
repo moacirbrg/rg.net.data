@@ -1,0 +1,88 @@
+{
+  "Id": "e284fb58-780a-4867-b723-9242b08a8548",
+  "RootTerm": "God",
+  "Translation": {
+    "pt": "Deus"
+  },
+  "Type": "Being",
+  "Attributes": {
+    "Is": {
+      "Intelligence": {
+        "Always": {
+          "Value": "Supreme",
+          "Type": "Quality",
+          "Quote": [
+            "31d956e0-0978-43f7-ae04-92df9eee7621"
+          ]
+        }
+      },
+      "Power": {
+        "Always": {
+          "Value": "Supreme",
+          "Type": "Quality",
+          "Quote": [
+            "31d956e0-0978-43f7-ae04-92df9eee7621"
+          ]
+        }
+      },
+      "Good": {
+        "Always": {
+          "Value": "Supreme",
+          "Type": "Quality",
+          "Quote": [
+            "31d956e0-0978-43f7-ae04-92df9eee7621"
+          ]
+        }
+      },
+      "Justice": {
+        "Always": {
+          "Value": "Supreme",
+          "Type": "Quality",
+          "Quote": [
+            "31d956e0-0978-43f7-ae04-92df9eee7621"
+          ]
+        }
+      }
+    },
+    "IsNot": {
+      "Spirit": {
+        "Time": "Eternity",
+        "Quote": ["ee68e275-7a13-420f-91c7-f9d112e984a1"]
+      },
+      "Matter": {
+        "Time": "Eternity",
+        "Quote": ["ee68e275-7a13-420f-91c7-f9d112e984a1"]
+      }
+    },
+    "Where": {
+      "Always": {
+        "Value": "Everywhere",
+        "Type": "Location",
+        "Quote": ["31d956e0-0978-43f7-ae04-92df9eee7621"]
+      }
+    },
+    "Time": {
+      "Since": {
+        "Value": "Eternity",
+        "Type": "Time",
+        "Quote": ["31d956e0-0978-43f7-ae04-92df9eee7621"]
+      },
+      "Until": {
+        "Value": "Eternity",
+        "Type": "Time",
+        "Quote": ["31d956e0-0978-43f7-ae04-92df9eee7621"]
+      }
+    },
+    "Creates": {
+      "Always": [
+        {
+          "Value": "Spirit",
+          "Quote": ["ae81f257-49de-49f5-8eae-f27f393cba08"]
+        },
+        {
+          "Value": "Matter"
+        }
+      ]
+    }
+  }
+}
